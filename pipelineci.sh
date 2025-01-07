@@ -1,1 +1,1 @@
-cat nosuchfile.txt bb.txt > output.txt
+cat aa.txt bb.txt > output.txt
